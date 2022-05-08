@@ -4,7 +4,7 @@ Here is a simple Static Restaurant Website, Which used to take orders from coust
 
 Project Demo URL: https://nice-smoke-0e18c8010.1.azurestaticapps.net
 
-Working Model: 
+Working Model: https://youtu.be/Lkx50V1DWXw
 
 Homepage:
 ![image](https://user-images.githubusercontent.com/83135144/167271198-9765e060-79db-44fd-a52a-17fe3264f11c.png)
